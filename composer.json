@@ -1,0 +1,23 @@
+{
+    "name": "wuxiaochen/test",
+    "description": "测试",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "武晓晨",
+            "email": "wuxiaochen@kmf.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wuxc\\Test\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    }
+
+}
