@@ -1,7 +1,7 @@
 {
     "name": "wuxiaochen/test",
     "description": "测试",
-    "type": "library",
+    "type": "package",
     "license": "MIT",
     "authors": [
         {
